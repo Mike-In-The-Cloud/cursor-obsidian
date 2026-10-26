@@ -1,0 +1,26 @@
+---
+description: Branch names use a Conventional Commits type prefix
+alwaysApply: true
+---
+
+# Branch names
+
+Name every branch `<type>/<short-description>`. Use lowercase and hyphens. Do not use Linear's suggested `username/mik-85-long-title` names.
+
+Types:
+
+- `feat` — new behavior
+- `fix` — a bug fix
+- `docs` — documentation only
+- `chore` — scaffolding, tooling, or config
+- `test` — tests only
+- `refactor` — restructure that preserves behavior
+
+```text
+chore/scaffold-plugin
+feat/wire-obsidian-live
+docs/install-readme
+test/golden-questions
+```
+
+Create the branch yourself when starting an issue. Do not commit or push unless asked.

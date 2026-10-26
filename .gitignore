@@ -1,2 +1,5 @@
-.env
+.env*
 golden-questions.md
+node_modules/
+server/dist/
+
