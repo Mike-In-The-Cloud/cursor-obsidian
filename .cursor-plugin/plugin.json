@@ -1,0 +1,8 @@
+{
+  "name": "obsidian-vault-kb",
+  "version": "0.1.0",
+  "description": "Search and cite an Obsidian vault from Cursor.",
+  "author": {
+    "name": "Michael Briggs"
+  }
+}
